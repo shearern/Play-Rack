@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="buttons">
+    <file>assets/button_icons/eject-24.png</file>
+    <file>assets/button_icons/fade_in_24.png</file>
+    <file>assets/button_icons/fade_out_24.png</file>
+    <file>assets/button_icons/media-pause-24.png</file>
+    <file>assets/button_icons/media-play-24.png</file>
+    <file>assets/button_icons/media-play-16.png</file>
+    <file>assets/button_icons/media-stop-24.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>assets/font/LiquidCrystal-Normal.ttf</file>
+    <file>assets/font/LLPIXEL3.ttf</file>
+    <file>assets/font/black_jack.ttf</file>
+  </qresource>
+</RCC>
