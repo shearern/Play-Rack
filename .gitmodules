@@ -1,3 +1,9 @@
 [submodule "lib/open-iconic"]
 	path = lib/open-iconic
 	url = https://github.com/iconic/open-iconic.git
+[submodule "lib/audio2png"]
+	path = lib/audio2png
+	url = https://github.com/fluxid/audio2png.git
+[submodule "lib/freesound"]
+	path = lib/freesound
+	url = https://github.com/MTG/freesound.git
